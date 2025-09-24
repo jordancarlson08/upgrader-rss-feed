@@ -7,12 +7,12 @@
             <description>Initial beta</description>
         </item>
         <item>
-            <title>Version 6.0.0</title>
-            <sparkle:version>6.0.0</sparkle:version>
+            <title>Version 6.0.1</title>
+            <sparkle:version>6.0.1</sparkle:version>
             <description>Major updates and improvements.</description>
-            <sparkle:tags>
+            <!-- <sparkle:tags>
               <sparkle:criticalUpdate></sparkle:criticalUpdate>
-            </sparkle:tags>
+            </sparkle:tags> -->
         </item>
 
 <!--         <item>
