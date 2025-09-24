@@ -7,9 +7,9 @@
             <description>Initial beta</description>
         </item>
         <item>
-            <title>Version 1.0.0</title>
-            <sparkle:version>1.0.0</sparkle:version>
-            <description>Minor updates and improvements.</description>
+            <title>Version 6.0.0</title>
+            <sparkle:version>6.0.0</sparkle:version>
+            <description>Major updates and improvements.</description>
             <sparkle:tags>
               <sparkle:criticalUpdate></sparkle:criticalUpdate>
             </sparkle:tags>
