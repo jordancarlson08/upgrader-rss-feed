@@ -23,12 +23,9 @@
             </sparkle:tags> -->
         </item>
         <item>
-            <title>Version 6.0.3</title>
-            <sparkle:version>6.0.3</sparkle:version>
-            <description>Patch 3 but critical: Minor updates and improvements.</description>
-            <sparkle:tags>
-              <sparkle:criticalUpdate></sparkle:criticalUpdate>
-            </sparkle:tags>
+            <title>Version 7.0.0</title>
+            <sparkle:version>7.0.0</sparkle:version>
+            <description>Not marked as critical but major update? Minor updates and improvements.</description>
         </item>
 
 <!--         <item>
