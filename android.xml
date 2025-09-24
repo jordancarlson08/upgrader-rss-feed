@@ -27,6 +27,12 @@
             <sparkle:version>7.0.0</sparkle:version>
             <description>Not marked as critical but major update? Minor updates and improvements.</description>
         </item>
+        <item>
+            <title>Version 8.0.0</title>
+            <description>Version 8: Minor updates and improvements.</description>
+            <pubDate>Wed, 24 Sept 2025 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.chatbooks" sparkle:version="6.1.1" sparkle:os="android" />
+        </item>
 
 <!--         <item>
             <title>Requied update 1.1.0</title>
