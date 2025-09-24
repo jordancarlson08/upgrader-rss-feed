@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Chatbooks Standalone</title>
+        <item>
+            <title>Version 0.0.1</title>
+            <description>Initial beta</description>
+        </item>
+        <item>
+            <title>Version 6.0.1</title>
+            <sparkle:version>6.0.1</sparkle:version>
+            <description>Major updates and improvements.</description>
+            <!-- <sparkle:tags>
+              <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            </sparkle:tags> -->
+        </item>
+        <item>
+            <title>Version 6.0.2</title>
+            <sparkle:version>6.0.2</sparkle:version>
+            <description>Minor updates and improvements.</description>
+            <!-- <sparkle:tags>
+              <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            </sparkle:tags> -->
+        </item>
+        <item>
+            <title>Version 6.0.3</title>
+            <sparkle:version>6.0.3</sparkle:version>
+            <description>Patch 3 but critical: Minor updates and improvements.</description>
+            <sparkle:tags>
+              <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            </sparkle:tags>
+        </item>
+
+<!--         <item>
+            <title>Requied update 1.1.0</title>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:tags>
+              <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            </sparkle:tags>
+        </item> -->
+    </channel>
+</rss>
