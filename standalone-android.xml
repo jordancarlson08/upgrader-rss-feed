@@ -14,6 +14,14 @@
               <sparkle:criticalUpdate></sparkle:criticalUpdate>
             </sparkle:tags> -->
         </item>
+        <item>
+            <title>Version 6.0.2</title>
+            <sparkle:version>6.0.2</sparkle:version>
+            <description>Minor updates and improvements.</description>
+            <!-- <sparkle:tags>
+              <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            </sparkle:tags> -->
+        </item>
 
 <!--         <item>
             <title>Requied update 1.1.0</title>
