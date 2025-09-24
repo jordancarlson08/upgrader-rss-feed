@@ -25,7 +25,7 @@
         <item>
             <title>Version 6.0.3</title>
             <sparkle:version>6.0.3</sparkle:version>
-            <description>Minor updates and improvements.</description>
+            <description>Patch 3 but critical: Minor updates and improvements.</description>
             <sparkle:tags>
               <sparkle:criticalUpdate></sparkle:criticalUpdate>
             </sparkle:tags>
