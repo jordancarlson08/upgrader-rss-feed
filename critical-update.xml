@@ -16,6 +16,7 @@
 
             <!-- This defines where the "Update now" button takes the user -->
             <enclosure url="https://play.google.com/store/apps/details?id=com.chatbooks" sparkle:os="android" />
+            <enclosure url="https://next.chatbooks.com" sparkle:os="web" />
         </item>
 
         <!-- If a new update exists after a critical update, the update will show the data from the newest, but will still behave as a critical, blocking update -->
