@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Chatbooks</title>
+            <item>
+            <!-- This value is compared to the currently installed version to determine if an update is needed -->
+            <sparkle:version>5.0.0</sparkle:version>
+            
+            <!-- Description shows in "Release Notes" section -->
+            <description>Bug fixes and performance improvements.</description>
+
+            <!-- Don't use critical updates for web -->
+            <!-- <sparkle:tags>
+              <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            </sparkle:tags> -->
+
+            <!-- Web is hardcoded to just refresh -->=
+            <enclosure url="https://next.chatbooks.com" sparkle:os="web" />
+        </item>        
+    </channel>
+</rss>
