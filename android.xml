@@ -1,45 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Chatbooks Standalone</title>
-        <item>
-            <title>Version 0.0.1</title>
-            <description>Initial beta</description>
-        </item>
-        <item>
-            <title>Version 6.0.1</title>
-            <sparkle:version>6.0.1</sparkle:version>
-            <description>Major updates and improvements.</description>
-            <!-- <sparkle:tags>
-              <sparkle:criticalUpdate></sparkle:criticalUpdate>
-            </sparkle:tags> -->
-        </item>
-        <item>
-            <title>Version 6.0.2</title>
-            <sparkle:version>6.0.2</sparkle:version>
-            <description>Minor updates and improvements.</description>
-            <!-- <sparkle:tags>
-              <sparkle:criticalUpdate></sparkle:criticalUpdate>
-            </sparkle:tags> -->
-        </item>
-        <item>
-            <title>Version 7.0.0</title>
-            <sparkle:version>7.0.0</sparkle:version>
-            <description>Not marked as critical but major update? Minor updates and improvements.</description>
-        </item>
-        <item>
-            <title>Version 8.0.0</title>
-            <description>Version 8: Minor updates and improvements.</description>
-            <pubDate>Wed, 24 Sept 2025 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.chatbooks" sparkle:version="6.1.1" sparkle:os="android" />
-        </item>
+        <title>Chatbooks</title>
+            <item>
+            <!-- This value is compared to the currently installed version to determine if an update is needed -->
+            <sparkle:version>5.0.0</sparkle:version>
+            
+            <!-- Description shows in "Release Notes" section -->
+            <description>This is a required update.</description>
 
-<!--         <item>
-            <title>Requied update 1.1.0</title>
-            <sparkle:version>1.1.0</sparkle:version>
+            <!-- Including this section will trigger a blocking, critical update that must be installed in order to keep using the app -->
             <sparkle:tags>
               <sparkle:criticalUpdate></sparkle:criticalUpdate>
             </sparkle:tags>
-        </item> -->
+
+            <!-- This defines where the "Update now" button takes the user -->
+            <enclosure url="https://play.google.com/store/apps/details?id=com.chatbooks" sparkle:os="android" />
+        </item>        
     </channel>
 </rss>
